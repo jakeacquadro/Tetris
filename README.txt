@@ -1,5 +1,9 @@
 README Tetris
 
+%%
+IMPORTANT: requires javafx to be installed in order to work
+%%
+
 DESIGN CHOICES:
 I wrote Tetris with the following classes: App, PaneOrganizer, Game,
 Piece, Constants.
