@@ -1,8 +1,5 @@
 README Tetris
 
-HANDIN:
-This is my final handin for Tetris.
-
 DESIGN CHOICES:
 I wrote Tetris with the following classes: App, PaneOrganizer, Game,
 Piece, Constants.
@@ -45,7 +42,3 @@ piece by the inputted argument. addSquares adds the squares in the piece to
 the array and is called when it can no longer move down.
 
 Constants contains all of the constants used throughout the program.
-
-KNOWN BUGS:
-The red long piece will sometimes stack on top of other pieces at the top when
-the game ends.
